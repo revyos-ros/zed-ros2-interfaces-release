@@ -2,7 +2,23 @@
 Changelog for package zed_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-4.2.2 (2024-11-21)
+5.0.1 (2025-05-26)
+------------------
+* Add SaveAreaMemory custom service
+* Contributors: Walter Lucetti
+
+5.0.0 (2025-03-28)
+------------------
+* Add new SvoStatus topic
+* Add new HealthStatusStamped topic
+* Add new SetSvoFrame service
+
+4.2.5 (2025-03-25)
+------------------
+* Update Object.msg
+* Update README.md
+
+Old releases
 ------------------
 * Changed the name of the package `zed_interfaces` to `zed_msgs` to match the ROS2 naming convention
 * Add ZED X One mesh
